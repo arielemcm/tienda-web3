@@ -1,0 +1,1 @@
+console.log("Estructura basica, mensaje desde console log");
